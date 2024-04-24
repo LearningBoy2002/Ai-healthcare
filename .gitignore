@@ -1,0 +1,18 @@
+Alzheimer Detection/Alzheimer_Dataset/*
+Brain Tumor Detection/VAL_CROP/*
+Brain Tumor Detection/VAL/*
+Brain Tumor Detection/TRAIN_CROP/*
+Brain Tumor Detection/TRAIN/*
+Brain Tumor Detection/TEST_CROP/*
+Brain Tumor Detection/TEST/*
+Brain Tumor Detection/brain_tumor_dataset/*
+Brain Tumor Detection/preview/*
+Breast Cancer Detection/data.csv
+Covid Detection/COVID/*
+Covid Detection/NORMAL/*
+Covid Detection/Test/*
+Covid Detection/Train/*
+Covid Detection/Val/*
+Diabetes Detection/diabetes.csv
+Heart Disease Detection/heart.csv
+Pneumonia Detection/chest_xray/*
